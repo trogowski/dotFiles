@@ -11,11 +11,11 @@ Send {right}
 return
 
 <^>!;::
-Send ł
+Send {U+0142}
 return
 
 +<^>!;::
-Send Ł
+Send {U+0141}
 return
 ;------------------------
 
